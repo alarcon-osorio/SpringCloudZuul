@@ -6,17 +6,17 @@ import com.netflix.zuul.exception.ZuulException;
 public class PostFilter extends ZuulFilter {
     @Override
     public String filterType() {
-        return null;
+        return "pos";
     }
 
     @Override
     public int filterOrder() {
-        return 0;
+        return 1;
     }
 
     @Override
     public boolean shouldFilter() {
-        return false;
+        return true;
     }
 
     @Override

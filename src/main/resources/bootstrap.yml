@@ -6,15 +6,3 @@ spring:
     config:
       uri: http://localhost:8888  #where the config-service is running
       fail-fast: true
-
-zuul:
-  routes:
-    product-service:
-      url: http://localhost:8081
-      path: /product/**
-      service-id: product-service
-
-    customer-service:
-      url: http://localhost:8083/customer
-      path: /customer/**
-      service-id: customer-service
