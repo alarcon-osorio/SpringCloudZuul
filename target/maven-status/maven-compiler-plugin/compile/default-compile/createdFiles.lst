@@ -1,4 +1,6 @@
+com/tlaxcala/microservices/gateway/filter/JwtPropagationFilter.class
 com/tlaxcala/microservices/gateway/filter/RouteFilter.class
+com/tlaxcala/microservices/config/security/JwtTokenFilter.class
 com/tlaxcala/microservices/config/CorsConfig.class
 com/tlaxcala/microservices/gateway/ZuulGatewayServer.class
 com/tlaxcala/microservices/gateway/filter/PostFilter.class
