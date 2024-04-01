@@ -4,6 +4,7 @@ import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.exception.ZuulException;
 
 public class PostFilter extends ZuulFilter {
+    
     @Override
     public String filterType() {
         return "pos";
@@ -11,7 +12,7 @@ public class PostFilter extends ZuulFilter {
 
     @Override
     public int filterOrder() {
-        return 1;
+        return 4;
     }
 
     @Override
