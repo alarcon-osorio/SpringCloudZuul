@@ -12,7 +12,7 @@ public class PostFilter extends ZuulFilter {
 
     @Override
     public int filterOrder() {
-        return 4;
+        return 3;
     }
 
     @Override

@@ -14,7 +14,7 @@ public class PreFilter extends ZuulFilter {
 
     @Override
     public int filterOrder() {
-        return 3;
+        return 2;
     }
 
     @Override
