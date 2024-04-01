@@ -4,5 +4,5 @@ spring:
     name: zuul-server #This is the name for the remote configuration file
   cloud:
     config:
-      uri: http://localhost:8888 #where the config-service is running
+      uri: http://172.17.0.2:8888 #where the config-service is running
       fail-fast: true
