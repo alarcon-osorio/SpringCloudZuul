@@ -1,6 +1,8 @@
+/Volumes/MacOS - Datos/Desarrollos/Escalab/SpringCloudZuul/src/main/java/com/tlaxcala/microservices/security/TokenValidator.java
 /Volumes/MacOS - Datos/Desarrollos/Escalab/SpringCloudZuul/src/main/java/com/tlaxcala/microservices/config/CorsConfig.java
 /Volumes/MacOS - Datos/Desarrollos/Escalab/SpringCloudZuul/src/main/java/com/tlaxcala/microservices/gateway/filter/PreFilter.java
 /Volumes/MacOS - Datos/Desarrollos/Escalab/SpringCloudZuul/src/main/java/com/tlaxcala/microservices/gateway/filter/RouteFilter.java
 /Volumes/MacOS - Datos/Desarrollos/Escalab/SpringCloudZuul/src/main/java/com/tlaxcala/microservices/gateway/filter/PostFilter.java
 /Volumes/MacOS - Datos/Desarrollos/Escalab/SpringCloudZuul/src/main/java/com/tlaxcala/microservices/gateway/filter/ErrorFilter.java
+/Volumes/MacOS - Datos/Desarrollos/Escalab/SpringCloudZuul/src/main/java/com/tlaxcala/microservices/gateway/filter/JwtFilter.java
 /Volumes/MacOS - Datos/Desarrollos/Escalab/SpringCloudZuul/src/main/java/com/tlaxcala/microservices/gateway/ZuulGatewayServer.java

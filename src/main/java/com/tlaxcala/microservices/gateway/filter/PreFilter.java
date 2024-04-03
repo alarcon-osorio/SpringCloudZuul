@@ -7,6 +7,7 @@ import com.netflix.zuul.exception.ZuulException;
 import javax.servlet.http.HttpServletRequest;
 
 public class PreFilter extends ZuulFilter {
+    
     @Override
     public String filterType() {
         return "pre";
